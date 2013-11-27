@@ -1,10 +1,11 @@
 //
 //  AppDelegate.h
-//  dating
+//  college+
 //
-//  Created by Amit Barman on 1/4/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Amit Barman on 4/8/12.
+//  Copyright (c) 2012 Apollo Software. All rights reserved.
 //
+
 
 #import <UIKit/UIKit.h>
 
